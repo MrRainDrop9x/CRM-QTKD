@@ -1,0 +1,17 @@
+C:\Users\acquy\Downloads\QTKD\qtkd-fresher-06\hainh\CRM_API\MISA.WEB06.CRM\MISA.BLL\bin\Debug\net6.0\MISA.BLL.deps.json
+C:\Users\acquy\Downloads\QTKD\qtkd-fresher-06\hainh\CRM_API\MISA.WEB06.CRM\MISA.BLL\bin\Debug\net6.0\MISA.BLL.dll
+C:\Users\acquy\Downloads\QTKD\qtkd-fresher-06\hainh\CRM_API\MISA.WEB06.CRM\MISA.BLL\bin\Debug\net6.0\MISA.BLL.pdb
+C:\Users\acquy\Downloads\QTKD\qtkd-fresher-06\hainh\CRM_API\MISA.WEB06.CRM\MISA.BLL\bin\Debug\net6.0\MISA.Common.dll
+C:\Users\acquy\Downloads\QTKD\qtkd-fresher-06\hainh\CRM_API\MISA.WEB06.CRM\MISA.BLL\bin\Debug\net6.0\MISA.DL.dll
+C:\Users\acquy\Downloads\QTKD\qtkd-fresher-06\hainh\CRM_API\MISA.WEB06.CRM\MISA.BLL\bin\Debug\net6.0\MISA.Common.pdb
+C:\Users\acquy\Downloads\QTKD\qtkd-fresher-06\hainh\CRM_API\MISA.WEB06.CRM\MISA.BLL\bin\Debug\net6.0\MISA.DL.pdb
+C:\Users\acquy\Downloads\QTKD\qtkd-fresher-06\hainh\CRM_API\MISA.WEB06.CRM\MISA.BLL\obj\Debug\net6.0\MISA.BLL.csproj.AssemblyReference.cache
+C:\Users\acquy\Downloads\QTKD\qtkd-fresher-06\hainh\CRM_API\MISA.WEB06.CRM\MISA.BLL\obj\Debug\net6.0\MISA.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acquy\Downloads\QTKD\qtkd-fresher-06\hainh\CRM_API\MISA.WEB06.CRM\MISA.BLL\obj\Debug\net6.0\MISA.BLL.AssemblyInfoInputs.cache
+C:\Users\acquy\Downloads\QTKD\qtkd-fresher-06\hainh\CRM_API\MISA.WEB06.CRM\MISA.BLL\obj\Debug\net6.0\MISA.BLL.AssemblyInfo.cs
+C:\Users\acquy\Downloads\QTKD\qtkd-fresher-06\hainh\CRM_API\MISA.WEB06.CRM\MISA.BLL\obj\Debug\net6.0\MISA.BLL.csproj.CoreCompileInputs.cache
+C:\Users\acquy\Downloads\QTKD\qtkd-fresher-06\hainh\CRM_API\MISA.WEB06.CRM\MISA.BLL\obj\Debug\net6.0\MISA.BLL.csproj.CopyComplete
+C:\Users\acquy\Downloads\QTKD\qtkd-fresher-06\hainh\CRM_API\MISA.WEB06.CRM\MISA.BLL\obj\Debug\net6.0\MISA.BLL.dll
+C:\Users\acquy\Downloads\QTKD\qtkd-fresher-06\hainh\CRM_API\MISA.WEB06.CRM\MISA.BLL\obj\Debug\net6.0\refint\MISA.BLL.dll
+C:\Users\acquy\Downloads\QTKD\qtkd-fresher-06\hainh\CRM_API\MISA.WEB06.CRM\MISA.BLL\obj\Debug\net6.0\MISA.BLL.pdb
+C:\Users\acquy\Downloads\QTKD\qtkd-fresher-06\hainh\CRM_API\MISA.WEB06.CRM\MISA.BLL\obj\Debug\net6.0\ref\MISA.BLL.dll

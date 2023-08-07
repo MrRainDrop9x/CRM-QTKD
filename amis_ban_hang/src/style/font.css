@@ -1,0 +1,15 @@
+@font-face {
+    font-family: Bold;
+    src: url("../assets/Resource/fonts/Roboto-Medium.ttf");
+}
+
+@font-face {
+    font-family: Italic;
+    src: url("../assets/Resource/fonts/roboto-v20-vietnamese_latin-italic.woff2");
+}
+
+@font-face {
+    font-family: Regular;
+    src: url("../assets/Resource/fonts/Roboto-Regular.ttf");
+}
+

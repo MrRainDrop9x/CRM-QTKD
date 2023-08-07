@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "XIOmMWMYPDhz6BaUJKhIKp4v21Agtf9db0qQWxVmBqlZw7l1yl05m9VkygjsBgdTAH19R478r9uAj/pTVsezyg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\acquy\\Downloads\\QTKD\\qtkd-fresher-06\\hainh\\CRM_API\\MISA.WEB06.CRM\\MISA.DL\\MISA.DL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\acquy\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
+    "C:\\Users\\acquy\\.nuget\\packages\\mysqlconnector\\2.1.11\\mysqlconnector.2.1.11.nupkg.sha512"
+  ],
+  "logs": []
+}

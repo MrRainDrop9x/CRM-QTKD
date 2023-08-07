@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "RL+uSMsdZrVksX+2irVlYcU5WSFVznvpLc82OUT0I/12dCoiRTSAJcLAilGrG/ZkEexChLjUyMBls9KwERlU8Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\acquy\\Downloads\\QTKD\\qtkd-fresher-06\\hainh\\CRM_API\\MISA.WEB06.CRM\\MISA.WEB06.API\\MISA.WEB06.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\acquy\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
+    "C:\\Users\\acquy\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\acquy\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\acquy\\.nuget\\packages\\mysqlconnector\\2.1.11\\mysqlconnector.2.1.11.nupkg.sha512",
+    "C:\\Users\\acquy\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\acquy\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\acquy\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\acquy\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

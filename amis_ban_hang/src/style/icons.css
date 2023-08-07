@@ -1,0 +1,376 @@
+.icon-menu {
+    background: url('../assets/Resource/img/icon_collection.svg') no-repeat -3px -341px;
+    width: 24px;
+    height: 24px;
+}
+
+.icon-bin {
+    background: url('../assets/Resource/img/icon_collection.svg') no-repeat -193px -1px;
+    width: 14px;
+    height: 15px;
+}
+
+.icon-avatar {
+    background: url('../assets/Resource/img/icon_collection.svg') no-repeat -144px -385px;
+    width: 24px;
+    height: 24px;
+}
+
+.icon-help {
+    background: url('../assets/Resource/img/icon_collection.svg') no-repeat -216px -360px;
+    width: 24px;
+    height: 24px;
+}
+
+.icon-facebook {
+    background: url('../assets/Resource/img/icon_facebook_24_blue.svg') no-repeat ;
+    width: 24px;
+    height: 24px;
+}
+
+.icon-3d {
+    background: url('../assets/Resource/img/icon_collection.svg') no-repeat -240px -409px;
+    width: 24px;
+    height: 24px;
+}
+
+.icon-calender {
+    background: url('../assets/Resource/img/icon_collection.svg') no-repeat -120px -337px;
+    width: 24px;
+    height: 24px;
+}
+
+.icon-notification {
+    background: url('../assets/Resource/img/icon_collection.svg') no-repeat -71px -337px;
+    width: 24px;
+    height: 24px;
+}
+
+.icon-setting {
+    background: url('../assets/Resource/img/icon_collection.svg') no-repeat -96px -337px;
+    width: 24px;
+    height: 24px;
+}
+
+.icon-search {
+    background: url('../assets/Resource/img/icon_collection.svg') no-repeat -32px 0;
+    width: 16px;
+    height: 16px;
+}
+
+.icon-dashboard {
+    background: url('../assets/Resource/img/icon_collection.svg') no-repeat 0 -272px;
+    width: 16px;
+    height: 16px;
+}
+
+.icon-dashboard.checked {
+    background: url('../assets/Resource/img/icon_collection.svg') no-repeat 0 -288px;
+    width: 16px;
+    height: 16px;
+}
+/* Tiềm năng */
+.icon-lead {
+    background: url('../assets/Resource/img/icon_collection.svg')no-repeat -0 -48px;
+    width: 16px;
+    height: 16px;
+}
+.icon-lead.checked {
+    width: 16px;
+    height: 16px;
+    background: transparent url(https://crmplatform.misacdn.net/app/assets/Images/icon/icon_collection_v2.svg) no-repeat -160px -288px;
+}
+/* Chào hàng */
+.icon-offer {
+    background: url('../assets/Resource/img/icon_collection.svg') no-repeat -16px -272px;
+    width: 16px;
+    height: 16px;
+}
+.icon-offer.checked {
+    width: 16px;
+    height: 16px;
+    background: transparent url(https://crmplatform.misacdn.net/app/assets/Images/icon/icon_collection_v2.svg) no-repeat -16px -288px;
+}
+.icon-contact {
+    background: url('../assets/Resource/img/icon_collection.svg') no-repeat -128px -48px;
+    width: 16px;
+    height: 16px;
+}
+
+.icon-contact.checked {
+    content: "";
+    display: inline-block;
+    width: 16px;
+    height: 16px;
+    background: transparent url(https://crmplatform.misacdn.net/app/assets/Images/icon/icon_collection_v2.svg) no-repeat -176px -288px;
+}
+/* Khách hàng */
+.icon-account {
+    background: url('../assets/Resource/img/icon_collection.svg') no-repeat -112px -48px;
+    width: 16px;
+    height: 16px;
+}
+.icon-account.checked {
+    width: 16px;
+    height: 16px;
+    background: transparent url(https://crmplatform.misacdn.net/app/assets/Images/icon/icon_collection_v2.svg) no-repeat -224px -288px;
+}
+/* Cơ hội */
+.icon-opportunity {
+    background: url('../assets/Resource/img/icon_collection.svg') no-repeat -80px -48px;
+    width: 16px;
+    height: 16px;
+}
+.icon-opportunity.checked {
+    width: 16px;
+    height: 16px;
+    background: transparent url(https://crmplatform.misacdn.net/app/assets/Images/icon/icon_collection_v2.svg) no-repeat -160px -304px;
+}
+/* Báo giá */
+.icon-quote {
+    background: url('../assets/Resource/img/icon_collection.svg') no-repeat -66px -48px;
+    width: 12px;
+    height: 16px;
+}
+.icon-quote.checked {
+    width: 16px;
+    height: 16px;
+    background: transparent url(https://crmplatform.misacdn.net/app/assets/Images/icon/icon_collection_v2.svg) no-repeat -176px -304px;
+}
+/* đơn hàng */
+.icon-sale-order {
+    background: url('../assets/Resource/img/icon_collection.svg') no-repeat -144px -48px;
+    width: 16px;
+    height: 16px;
+}
+.icon-sale-order.checked {
+    width: 16px;
+    height: 16px;
+    background: transparent url(https://crmplatform.misacdn.net/app/assets/Images/icon/icon_collection_v2.svg) no-repeat -160px -240px;
+}
+/* hóa đơn */
+.icon-invoice-request {
+    background: url('../assets/Resource/img/icon_collection.svg') no-repeat -50px -48px;
+    width: 12px;
+    height: 16px;
+}
+.icon-invoice-request.checked {
+    width: 16px;
+    height: 16px;
+    background: transparent url(https://crmplatform.misacdn.net/app/assets/Images/icon/icon_collection_v2.svg) no-repeat -208px -304px;
+}
+/* ao cơ hội */
+.icon-oppotunity-pool {
+    background: url('../assets/Resource/img/icon_collection.svg') no-repeat -66px -305px;
+    width: 12px;
+    height: 15px;
+}
+/* Hoạt động */
+.icon-activity {
+    background: url('../assets/Resource/img/icon_collection.svg') no-repeat -129px -272px;
+    width: 15px;
+    height: 15px;
+}
+/* mục tiêu */
+.icon-forecast {
+    background: url('../assets/Resource/img/icon_collection.svg') no-repeat -81px -273px;
+    width: 15px;
+    height: 15px;
+}
+/* chiến dịch */
+.icon-campaign {
+    background: url('../assets/Resource/img/icon_collection.svg') no-repeat -208px -48px;
+    width: 16px;
+    height: 16px;
+}
+
+.icon-report {
+    background: url('../assets/Resource/img/icon_collection.svg') no-repeat -32px -272px;
+    width: 16px;
+    height: 16px;
+}
+
+.icon-other {
+    background: url('../assets/Resource/img/icon_collection.svg') no-repeat -49px -271px;
+    width: 16px;
+    height: 16px;
+}
+.icon-other.checked {
+    background: url('../assets/Resource/img/icon_collection.svg') no-repeat -49px -287px;
+    width: 16px;
+    height: 16px;
+}
+.icon-refresh {
+    background: url('../assets/Resource/img/icon_collection.svg') no-repeat -351px -32px;
+    width: 16px;
+    height: 16px;
+}
+
+.icon-plus {
+    background: url('../assets/Resource/img/icon_collection.svg') no-repeat -240px -129px;
+    width: 16px;
+    height: 16px;
+}
+
+.icon-down {
+    background: url('../assets/Resource/img/icon_collection.svg') no-repeat -49px -31px;
+    width: 16px;
+    height: 16px;
+}
+
+.icon-threedot {
+    background: url('../assets/Resource/img/icon_collection.svg') no-repeat -49px -6px;
+    width: 14px;
+    height: 4px;
+}
+
+.icon-threecol {
+    background: url('../assets/Resource/img/icon_collection.svg') no-repeat -270px -160px;
+    width: 15px;
+    height: 16px;
+}
+
+.icon-downblack {
+    background: url('../assets/Resource/img/icon_collection.svg') no-repeat -338px -37px;
+    width: 13px;
+    height: 7px;
+}
+
+.icon-up {
+    background: url('../assets/Resource/img/icon_collection.svg') no-repeat -322px -37px;
+    width: 13px;
+    height: 7px;
+}
+
+.icon-call {
+    background: url('../assets/Resource/img/icon_collection.svg') no-repeat -177px -322px;
+    width: 15px;
+    height: 15px;
+}
+
+.icon-complete {
+    background: url('../assets/Resource/img/icon_collection.svg') no-repeat -194px -321px;
+    width: 12px;
+    height: 16px;
+}
+
+.icon-calu {
+    background: url('../assets/Resource/img/icon_collection.svg') no-repeat -209px -321px;
+    width: 14px;
+    height: 16px;
+}
+
+.icon-email {
+    background: url('../assets/Resource/img/icon_collection.svg') no-repeat 0 -324px;
+    width: 16px;
+    height: 11px;
+}
+
+.icon-note {
+    background: url('../assets/Resource/img/icon_collection.svg') no-repeat -273px -115px;
+    width: 16px;
+    height: 14px;
+}
+
+.icon-pre1 {
+    background: url('../assets/Resource/img/icon_collection.svg') no-repeat -288px -32px;
+    width: 16px;
+    height: 16px;
+}
+
+.icon-pre2 {
+    background: url('../assets/Resource/img/icon_collection.svg') no-repeat -112px -224px;
+    width: 16px;
+    height: 16px;
+}
+
+.icon-next1 {
+    background: url('../assets/Resource/img/icon_collection.svg') no-repeat -304px -32px;
+    width: 16px;
+    height: 16px;
+}
+
+.icon-next2 {
+    background: url('../assets/Resource/img/icon_collection.svg') no-repeat -128px -224px;
+    width: 16px;
+    height: 16px;
+}
+
+.slideleft {
+    width: 8px;
+    height: 30px;
+    border-radius: 0 6px 6px 0;
+    box-shadow: 3px 2px 6px 2px rgba(51, 52, 55, 0.16);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.slideright {
+    width: 8px;
+    height: 30px;
+    border-radius: 0 6px 6px 0;
+    box-shadow: 3px 2px 6px 2px rgba(51, 52, 55, 0.16);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.icon-slideleft {
+    background: url('../assets/Resource/img/icon_collection.svg') no-repeat -22px -36px;
+    width: 5px;
+    height: 9px;
+}
+
+.icon-slideright {
+    background: url('../assets/Resource/img/icon_collection.svg') no-repeat -6px -36px;
+    width: 5px;
+    height: 9px;
+}
+
+.icon-tblcall {
+    background: url('../assets/Resource/img/icon_collection.svg') no-repeat -322px -48px;
+    width: 15px;
+    height: 16px;
+}
+
+.icon-success {
+    background: url('../assets/Resource/img/icon_collection.svg') no-repeat -128px -16px;
+	width: 16px;
+	height: 16px;
+}
+
+.icon-multip{
+    background: url('../assets/Resource/img/icon_collection.svg') no-repeat -80px -16px;
+	width: 16px;
+	height: 16px;
+}
+
+.icon-information {
+    background: url('../assets/Resource/img/icon_collection.svg') no-repeat -368px -144px;
+	width: 16px;
+	height: 16px;
+}
+
+.icon-warning {
+    background: url('../assets/Resource/img/icon_collection.svg') no-repeat -368px -128px;
+	width: 16px;
+	height: 16px;
+}
+
+.icon-success {
+    background: url(http://localhost:8080/img/icon_collection.141e6dee.svg) no-repeat -384px -144px;
+	width: 16px;
+	height: 16px;
+}
+.icon-error {
+    background: url(http://localhost:8080/img/icon_collection.141e6dee.svg) no-repeat -384px -128px;
+	width: 16px;
+	height: 16px;
+}
+
+.icon-multip-white {
+    background: url('../assets/Resource/img/icon_collection.svg') no-repeat -320px -473px;
+	width: 16px;
+	height: 16px;
+}

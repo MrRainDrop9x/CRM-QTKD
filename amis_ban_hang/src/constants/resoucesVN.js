@@ -1,0 +1,37 @@
+// CHUYỂN ĐỔI TIẾNG VIỆT SANG TIẾNG ANH
+
+const resoucesVN = {
+  'Mã tiềm năng': 'LeadCode',
+  Tên: 'FirstName',
+  'Họ và đệm': 'LastName',
+  'ĐT di động': 'Mobile',
+  'ĐT cơ quan': 'OfficeMobile',
+  'Xưng hô': 'SalutationName',
+  'Phòng ban': 'DepartmentName',
+  'Chức danh': 'TitleName',
+  'Nguồn gốc': 'LeadSourceName',
+  'Phân loại khách hàng': 'LeadTypeName',
+  Zalo: 'Zalo',
+  'Email cơ quan': 'OfficeEmail',
+  'Email cá nhân': 'Email',
+  'Tổ chức': 'CompanyName',
+  'Mã số thuế': 'TaxCode',
+  'Tài khoản ngân hàng': 'BankAccount',
+  'Ngày thành lập': 'EstablishDay',
+  'Lĩnh vực': 'SectorName',
+  'Doanh thu': 'AnnualRevenueName',
+  'Mở tại ngân hàng': 'BankName',
+  'Loại hình': 'BusinessTypeName',
+  'Ngành nghề': 'IndustryName',
+  'Quốc gia': 'CountryName',
+  'Quận/Huyện': 'DistrictName',
+  'Số nhà/đường phố': 'Street',
+  'Địa chỉ': 'Address',
+  'Tỉnh/Thành phố': 'ProvinceName',
+  'Phường/Xã': 'WardName',
+  'Mã vùng': 'ZipCode',
+  'Mô tả': 'Description',
+  'Dùng chung': 'IsPublic',
+}
+
+export default resoucesVN

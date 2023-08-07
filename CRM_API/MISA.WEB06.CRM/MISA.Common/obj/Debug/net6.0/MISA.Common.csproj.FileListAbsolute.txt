@@ -1,0 +1,12 @@
+C:\Users\acquy\Downloads\QTKD\qtkd-fresher-06\hainh\CRM_API\MISA.WEB06.CRM\MISA.Common\bin\Debug\net6.0\MISA.Common.deps.json
+C:\Users\acquy\Downloads\QTKD\qtkd-fresher-06\hainh\CRM_API\MISA.WEB06.CRM\MISA.Common\bin\Debug\net6.0\MISA.Common.dll
+C:\Users\acquy\Downloads\QTKD\qtkd-fresher-06\hainh\CRM_API\MISA.WEB06.CRM\MISA.Common\bin\Debug\net6.0\MISA.Common.pdb
+C:\Users\acquy\Downloads\QTKD\qtkd-fresher-06\hainh\CRM_API\MISA.WEB06.CRM\MISA.Common\obj\Debug\net6.0\MISA.Common.csproj.AssemblyReference.cache
+C:\Users\acquy\Downloads\QTKD\qtkd-fresher-06\hainh\CRM_API\MISA.WEB06.CRM\MISA.Common\obj\Debug\net6.0\MISA.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acquy\Downloads\QTKD\qtkd-fresher-06\hainh\CRM_API\MISA.WEB06.CRM\MISA.Common\obj\Debug\net6.0\MISA.Common.AssemblyInfoInputs.cache
+C:\Users\acquy\Downloads\QTKD\qtkd-fresher-06\hainh\CRM_API\MISA.WEB06.CRM\MISA.Common\obj\Debug\net6.0\MISA.Common.AssemblyInfo.cs
+C:\Users\acquy\Downloads\QTKD\qtkd-fresher-06\hainh\CRM_API\MISA.WEB06.CRM\MISA.Common\obj\Debug\net6.0\MISA.Common.csproj.CoreCompileInputs.cache
+C:\Users\acquy\Downloads\QTKD\qtkd-fresher-06\hainh\CRM_API\MISA.WEB06.CRM\MISA.Common\obj\Debug\net6.0\MISA.Common.dll
+C:\Users\acquy\Downloads\QTKD\qtkd-fresher-06\hainh\CRM_API\MISA.WEB06.CRM\MISA.Common\obj\Debug\net6.0\refint\MISA.Common.dll
+C:\Users\acquy\Downloads\QTKD\qtkd-fresher-06\hainh\CRM_API\MISA.WEB06.CRM\MISA.Common\obj\Debug\net6.0\MISA.Common.pdb
+C:\Users\acquy\Downloads\QTKD\qtkd-fresher-06\hainh\CRM_API\MISA.WEB06.CRM\MISA.Common\obj\Debug\net6.0\ref\MISA.Common.dll
